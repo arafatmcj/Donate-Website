@@ -72,3 +72,20 @@ hr{
     box-shadow: 10px 10px 40px rgb(243 117 117);
     background-color: rgb(215, 235, 215);
 }
+
+.Form-Area{
+    width: 30%;
+    margin-left: 25%;
+    margin-right: 10%;
+    padding: 10%;
+    border-radius: 7px;
+    box-shadow: 10px 10px 35px rgb(243 117 117);
+    background-color: rgb(238, 225, 235);
+}
+.Submit-Button{
+    background-color: red;
+    color: white;
+    padding: 5px 20px;
+    border-style: solid;
+
+}
