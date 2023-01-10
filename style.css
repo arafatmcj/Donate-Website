@@ -31,3 +31,29 @@ h1{
     background-color: orangered;
     
 }
+.Donate-Today{
+    text-align: center;
+}
+.Amount{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.Amount-Decoration{
+    color: brown;
+    border-style: solid;
+    padding: 10px 30px;
+
+}
+.Textrea-part{
+    text-align: center;
+}
+.textarea{
+    border: none;
+    resize: none;
+    outline: none;
+}
+hr{
+    width: 40%;
+}
