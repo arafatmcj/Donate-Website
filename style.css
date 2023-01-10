@@ -1,0 +1,33 @@
+h1{
+    display: block;
+    font-size: 75px;
+    margin-block-start: 15px;
+    margin-block-end: 15px;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+.Donate-Now-section{
+    background-image: url(Image/donation6.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    background-position: center;
+}
+.Donate-Now{
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+    transform: translate(-20%, -20%);
+}
+
+.Link-Button{
+    text-decoration: none;
+    padding: 20px 40px;
+    border-radius: 10px;
+    color: white;
+    background-color: orangered;
+    
+}
